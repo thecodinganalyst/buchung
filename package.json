@@ -1,0 +1,15 @@
+{
+    "name": "buchung",
+    "description": "booking application",
+    "version": "0.0.1",
+    "private": true,
+    "devDependencies": {
+        "jest": "^26.6.3"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "@aws-sdk/client-dynamodb": "^3.14.0"
+    }
+}

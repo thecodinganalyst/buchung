@@ -1,0 +1,9 @@
+{
+    "httpMethod": "POST",
+    "body": {
+        "location": {"S": "ZSG"},
+        "date": {"S": "2021-05-12"},
+        "capacity": {"N": "15"},
+        "occupied": {"N":  "0"}
+    }
+}

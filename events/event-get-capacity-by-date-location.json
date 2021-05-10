@@ -1,0 +1,7 @@
+{
+    "httpMethod": "GET",
+    "queryStringParameters": {
+        "location": "ZSG",
+        "date": "2021-05-12"
+    }
+}

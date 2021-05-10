@@ -1,0 +1,1 @@
+sam local invoke setCapacityForDateLocationFunction --event events/event-set-capacity-for-date-location.json --env-vars env.json --docker-network dynamodb-docker_sam-local

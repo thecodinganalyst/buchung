@@ -1,0 +1,1 @@
+sam local invoke getCapacityByDateLocationFunction --event events/event-get-capacity-by-date-location.json --env-vars env.json --docker-network dynamodb-docker_sam-local
